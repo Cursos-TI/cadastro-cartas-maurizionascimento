@@ -108,5 +108,7 @@ int main() {
 
     compararCartas(carta1, carta2);
 
+    printf("Novo Commt/n");
+
     return 0;
 }
