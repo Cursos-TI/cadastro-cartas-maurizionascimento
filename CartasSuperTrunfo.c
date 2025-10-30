@@ -130,5 +130,7 @@ int main() {
         printf("Atributo inválido.\n");
     }
 
+printf("Novo commit/n");
+
     return 0;
 }
